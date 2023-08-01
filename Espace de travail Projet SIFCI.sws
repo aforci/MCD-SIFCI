@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{CB00EC4E-6A52-494D-904A-1626D49D58B7}" Name="Projet_SIFCI" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="Projet_SIFCI.prj"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
